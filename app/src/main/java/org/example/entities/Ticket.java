@@ -35,4 +35,7 @@ public class Ticket {
         return ticketInfo;
     }
 
+    public String getTicketId() {
+        return ticketId;
+    }
 }
